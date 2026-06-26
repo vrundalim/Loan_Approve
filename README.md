@@ -80,6 +80,14 @@ Model files:
 
 ```bash
 git clone https://github.com/vrundalim/Loan_Approve.git
+```
 
+## Project Screenshots
 
-<img width="2239" height="1025" alt="image" src="https://github.com/user-attachments/assets/afbe7174-dc43-4760-804f-831387699936" />
+### Home Page
+
+![Home Page](screenshots/home_page.png)
+
+### Prediction Page
+
+![Prediction Page](screenshots/prediction_page.png)
