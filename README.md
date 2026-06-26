@@ -82,10 +82,6 @@ Model files:
 git clone https://github.com/vrundalim/Loan_Approve.git
 ```
 
-## Project Screenshots
-
-### Home Page
-
 ![Home Page](screenshots/home_page.png)
 
 ### Prediction Page
