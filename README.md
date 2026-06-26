@@ -74,8 +74,9 @@ Model files:
 
 ---
 
-Author
-Vrundali
+## Installation
 
-GitHub:
-https://github.com/vrundalim
+### Clone Repository
+
+```bash
+git clone https://github.com/vrundalim/Loan_Approve.git
