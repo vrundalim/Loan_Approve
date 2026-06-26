@@ -81,9 +81,3 @@ Model files:
 ```bash
 git clone https://github.com/vrundalim/Loan_Approve.git
 ```
-
-![Home Page](screenshots/home_page.png)
-
-### Prediction Page
-
-![Prediction Page](screenshots/prediction_page.png)
